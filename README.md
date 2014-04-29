@@ -1,6 +1,7 @@
 ## KendoProgressBar Widget for [Wakanda](http://wakanda.org)
 The __WakendoProgressBar__ widget allows you to display the progress of a task.
 See it in [action](http://demos.telerik.com/kendo-ui/web/progressbar/index.html).
+
 Before using this widget, you must have installed [WakendoCore](https://github.com/acoudeyras/WakendoCore)
 
 
