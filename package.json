@@ -1,9 +1,9 @@
 {
-    "name": "KendoProgressBar",
-    "studioName": "KendoProgressBar",
+    "name": "WakendoProgressBar",
+    "studioName": "WakendoProgressBar",
     "category": "Custom Widgets",
     "iconPath": "/icons/widget.png",
-    "author": "Widget Developer",
+    "author": "Alexis Coudeyras",
     "contributors": [
         "Alexis Coudeyras"
     ],
@@ -18,9 +18,9 @@
     "license": "MIT",
     "loadDependencies": [
         {"id": "Widget_V2"},
-		{"id": "KendoCore/package.json", "version": "1.0.0", "path": "WIDGETS_CUSTOM"},
-		{"id": "KendoCore/lib/telerik.kendoui.core/js/kendo.progressbar.min.js", "version": "1.0.0", "path": "WIDGETS_CUSTOM"},
-        {"id": "KendoProgressBar/widget.js", "version": "1.0.0", "path": "WIDGETS_CUSTOM"},
-        {"id": "KendoProgressBar/designer.js", "studioOnly": true, "version": "1.0.0", "path": "WIDGETS_CUSTOM"}
+	{"id": "WakendoCore/package.json", "version": "1.0.0", "path": "WIDGETS_CUSTOM"},
+	{"id": "WakendoCore/lib/telerik.kendoui.core/js/kendo.progressbar.min.js", "version": "1.0.0", "path": "WIDGETS_CUSTOM"},
+        {"id": "WakendoProgressBar/widget.js", "version": "1.0.0", "path": "WIDGETS_CUSTOM"},
+        {"id": "WakendoProgressBar/designer.js", "studioOnly": true, "version": "1.0.0", "path": "WIDGETS_CUSTOM"}
     ]
 }
