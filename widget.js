@@ -1,6 +1,6 @@
-WAF.define('KendoProgressBar', ['waf-core/widget', 'kendoCore'], function(widget, $) {
+WAF.define('WakendoProgressBar', ['waf-core/widget', 'wakkendoCore'], function(widget, $) {
 	
-    var KendoProgressBar = widget.create('KendoProgressBar', {
+    var KendoProgressBar = widget.create('WakendoProgressBar', {
     	
     	value: widget.property({
     		type: 'number'
