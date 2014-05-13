@@ -54,15 +54,15 @@ WAF.define('WakendoProgressBar', ['waf-core/widget', 'wakendoCore'], function(wi
         },
         
         status: function(text) {
-        	self.kendoWidget.progressStatus.text(text);
+        	this.kendoWidget.progressStatus.text(text);
         },
 
         enable: function() {
-        	self.kendoWidget.enable();
+        	this.kendoWidget.enable();
         },
 
         disable: function() {
-        	self.kendoWidget.enable(false);
+        	this.kendoWidget.enable(false);
         }
 
     });
