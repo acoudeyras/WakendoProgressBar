@@ -13,6 +13,7 @@
         "type": "git",
         "url": "https://github.com/acoudeyras/WakendoProgressBar.git"
     },
+    "externalWidgets" : ["https://github.com/acoudeyras/WakendoCore.git"],
     "keywords": ["wakanda", "widget", "kendo", "progressbar"],
     "engines": {"wakanda": ">= 8"},
     "license": "MIT",
